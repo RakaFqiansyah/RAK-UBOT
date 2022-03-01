@@ -16,7 +16,7 @@
 
 ## PEMILIK REPO
 * **Deadpool** 🏴‍☠️
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/Imthelastkinggms)
+[<img src="https://camo.githubusercontent.com/a433273b618d7b8c2569ba6013774adf910ae8e3da45eaff176f64781bfd53fc/68747470733a2f2f72617069646170692e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f30312f6f63746f6361742e676966">](https://t.me/Imthelastkinggms)
 
   
   
@@ -27,32 +27,32 @@
 
 ### JOIN DULU TOT!!:
 
-<a href="https://t.me/Raxsstory"><img src="https://img.shields.io/badge/Channel%20RAM%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/Mimik_susu1"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Raxsstory"><img src="https://img.shields.io/badge/Channel%20RAK%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Mimik_susu1"><img src="https://img.shields.io/badge/Join-MimikSusu%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Penjelasan:
-* **Repo Nya toxic, Gajelas pokoknya mah.** 
-[<img src="https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg">](https://t.me/ootspambott)
+* **Repo Nya Kasar, deploy aja buru.** 
+[<img src="https://telegra.ph/file/c63710177ff5bbe451846.png">](https://t.me/ootspambott)
 
 
 <h3 align="center">REPO RAK UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT KALO LAGI GABUT WKWKWK.</h3>
 <p align="center">&nbsp;</p>
 
-### <a href="https://t.me/Mimik_susu1"><img src="https://img.shields.io/badge/GROUP%20SPAM%20RAM%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
+### <a href="https://t.me/Mimik_susu1"><img src="https://img.shields.io/badge/GROUP%20SPAM%20RAK%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
 
 
 ## Bagaimana Cara Deploy?
 
 
 * **VIDEO TUTORIAL DEPLOY!** 🔧
-[<img src="https://media.giphy.com/media/XD4BoRtenzE1eTIHzZ/giphy.gif">](https://t.me/UserbotChannel/36)
+[<img src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966">](https://t.me/UserbotChannel/36)
 
 ### AMBIL STRING DI BAWAH INI:
 
 ##
 [![RAKASTRINGBOT](https://replit.com/badge/github/@rakafiqiansyah/RAK-UBOT)](https://replit.com/@RakaFiqiansyah/RAKASTRINGBOT#main.py)
 ##
-<a href="https://heroku.com/deploy?template=https://github.com/ramadhani892/RAM-UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAM%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
+<a href="https://heroku.com/deploy?template=https://github.com/rakafqiansyah/RAK-UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAKA%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
 
 <br>
 </p>

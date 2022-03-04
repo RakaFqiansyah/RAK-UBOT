@@ -1,7 +1,7 @@
 <a href="//https://t.me/ImthelastkinggMs?r=nametag"><img src="https://telegra.ph/file/12a6419510572a35b7929.jpg" width="320" height="211" alt="  RAM-UBOT" /></a>
 
 <p align="center">
-  <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
+  <a href="https://github.com/rakafqiansyah/RAK-UBOT/fork">
     <img src="https://img.shields.io/github/forks/rakafqiansyah/RAK-UBOT?label=Fork&style=social">
     
   </a>
@@ -15,7 +15,7 @@
 <a href="https://t.me/ImthelastkinggMs"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **Deadpool** 🏴‍☠️
+* **Raka** 🏴‍☠️
 [<img src="https://camo.githubusercontent.com/a433273b618d7b8c2569ba6013774adf910ae8e3da45eaff176f64781bfd53fc/68747470733a2f2f72617069646170692e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f30312f6f63746f6361742e676966">](https://t.me/Imthelastkinggms)
 
   
@@ -25,7 +25,7 @@
 # KALO FORK TUH KASIH BINTANG YA!
 
 
-### JOIN DULU TOT!!:
+### JOIN DULU TOT!!
 
 <a href="https://t.me/Raxsstory"><img src="https://img.shields.io/badge/Channel%20RAK%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://t.me/Mimik_susu1"><img src="https://img.shields.io/badge/Join-MimikSusu%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
